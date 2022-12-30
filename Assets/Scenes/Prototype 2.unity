@@ -499,7 +499,7 @@ Transform:
   - {fileID: 1590138455}
   - {fileID: 425805627}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!850595691 &1412584266
 LightingSettings:
@@ -689,12 +689,12 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2089285821}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.4067335, y: -0.69612265, z: 14.654581}
+  m_LocalPosition: {x: -2.4067335, y: -0.69612265, z: 13.63}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &2089285823
 MonoBehaviour:
@@ -709,8 +709,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animalPrefabs:
-  - {fileID: 74985482425425474, guid: 200a84fcc41cf3a4387fdbb7c65ba50c, type: 3}
   - {fileID: 4596414728000899292, guid: a8107e56f3ad360419370a9ec6508fdd, type: 3}
+  - {fileID: 74985482425425474, guid: 200a84fcc41cf3a4387fdbb7c65ba50c, type: 3}
 --- !u!1001 &2089543465
 PrefabInstance:
   m_ObjectHideFlags: 0
